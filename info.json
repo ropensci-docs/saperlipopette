@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "7b0d0bd06f41a8df1f78b158d5615a89ae862960",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-08-21T12:51:56Z",
+    "files": 1,
+    "merge": false,
+    "message": "fix: typo\n"
+  },
+  "repo": "https://github.com/ropensci-training/saperlipopette",
+  "pkg": "saperlipopette",
+  "time": "2026-08-21T13:34:56Z"
+}
